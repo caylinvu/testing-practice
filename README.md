@@ -1,2 +1,2 @@
-# testing-practice
-TOP - Testing practice using Jest
+# Testing Practice
+Testing practice using Jest
